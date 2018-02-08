@@ -1,0 +1,14 @@
+{
+  "name": "advancedjavascriptproject",
+  "version": "1.0.0",
+  "description": "1984",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1984",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
